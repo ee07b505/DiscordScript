@@ -179,6 +179,117 @@
       "dc_name": "TimeSwap",
       "channel_id": "845274501273092126",
       "time_interval": 86400
+    },
+    {
+      "discord_link": "",
+      "dc_name": "Ondo Finance",
+      "channel_id": "912353413512175666",
+      "time_interval": 86400
+    },
+    {
+      "discord_link": "",
+      "dc_name": "Shell",
+      "channel_id": "920378114041847898",
+      "time_interval": 86400
+    },
+    {
+      "discord_link": "",
+      "dc_name": "Euler",
+      "channel_id": "897452330046324786",
+      "time_interval": 86400
+    },
+    {
+      "discord_link": "",
+      "dc_name": "Fractional",
+      "channel_id": "868497465656111114",
+      "time_interval": 86400
+    },
+    {
+      "discord_link": "",
+      "dc_name": "Greenwood",
+      "channel_id": "941035063947182090",
+      "time_interval": 86400
+    },
+    {
+      "discord_link": "",
+      "dc_name": "Sherlock",
+      "channel_id": "922923191482056745",
+      "time_interval": 86400
+    },
+    {
+      "discord_link": "",
+      "dc_name": "Volmeex",
+      "channel_id": "895751634209079337",
+      "time_interval": 86400
+    },
+    {
+      "discord_link": "",
+      "dc_name": "RiskHarbor",
+      "channel_id": "928420821867835442",
+      "time_interval": 86400
+    },
+    {
+      "discord_link": "",
+      "dc_name": "KurateDAO",
+      "channel_id": "909236381694443550",
+      "time_interval": 86400
+    },
+    {
+      "discord_link": "",
+      "dc_name": "Dark Forest",
+      "channel_id": "932655190581059625",
+      "time_interval": 86400
+    },
+    {
+      "discord_link": "",
+      "dc_name": "BigPlayer DAO",
+      "channel_id": "934062649979834438",
+      "time_interval": 86400
+    },{
+      "discord_link": "",
+      "dc_name": "8848",
+      "channel_id": "823831552362151967",
+      "time_interval": 86400
+    },{
+      "discord_link": "",
+      "dc_name": "Chainflip",
+      "channel_id": "882488486026969128",
+      "time_interval": 86400
+    },{
+      "discord_link": "",
+      "dc_name": "Tally",
+      "channel_id": "915718010487054416",
+      "time_interval": 86400
+    },{
+      "discord_link": "",
+      "dc_name": "Syndr",
+      "channel_id": "918535776617234452",
+      "time_interval": 86400
+    },{
+      "discord_link": "",
+      "dc_name": "Morpho",
+      "channel_id": "905789317631316028",
+      "time_interval": 86400
+    },{
+      "discord_link": "",
+      "dc_name": "Hop",
+      "channel_id": "882562805507710986",
+      "time_interval": 86400
+    },{
+      "discord_link": "",
+      "dc_name": "BankSea",
+      "channel_id": "857153835385880586",
+      "time_interval": 86400
+    },{
+      "discord_link": "",
+      "dc_name": "Swim",
+      "channel_id": "905363373997322280",
+      "time_interval": 86400
+    },{
+      "discord_link": "",
+      "dc_name": "ApeX",
+      "channel_id": "919819325085466664",
+      "time_interval": 86400
     }
   ],
   "bot": [
