@@ -43,10 +43,10 @@ async function chat(discordLink, discordChannelID, timeInterval, token, dc_name,
             }
             index = (index + 1) % length
             await sendMessage(discordChannelID, message_data, token, discordLink, dc_name,no_discord)
-            await sleep(timeInterval * 1000)
+            await sleep((timeInterval-Math.random() * 100) * 1000)
         } catch (e) {
             console.log("出错了：" + e)
-            await sleep(timeInterval * 1000)
+            await sleep((timeInterval-Math.random() * 100) * 1000)
         }
     }
 }
