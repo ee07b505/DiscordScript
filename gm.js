@@ -1,6 +1,6 @@
 const fs = require("fs");
 const axios = require('axios-https-proxy-fix');
-const fileJson = JSON.parse(fs.readFileSync("./discord_message.json").toString())
+const fileJson = JSON.parse(fs.readFileSync("./config/message_gm.json").toString())
 const token = JSON.parse(fs.readFileSync("./config/account.json").toString()).token
 const length = fileJson.bot.length
 const enableProxy = fileJson.proxy.enable
@@ -43,10 +43,10 @@ async function chat(discordLink, discordChannelID, timeInterval, token, dc_name,
             }
             index = (index + 1) % length
             await sendMessage(discordChannelID, message_data, token, discordLink, dc_name,no_discord)
-            await sleep((timeInterval-Math.random() * 100) * 1000)
+            await sleep((timeInterval-Math.random() * 1000) * 1000)
         } catch (e) {
             console.log("出错了：" + e)
-            await sleep((timeInterval-Math.random() * 100) * 1000)
+            await sleep((timeInterval-Math.random() * 1000) * 1000)
         }
     }
 }
