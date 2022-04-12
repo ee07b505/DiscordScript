@@ -21,8 +21,8 @@ async function main() {
         let dc_name = config_index.dc_name
         chat(discordLink, discordChannelID, timeInterval, accountToken, dc_name,index)
 
-        // 停止1-15秒
-        let sleep_num = (Math.random() * 14 + 1) * 1000
+        // 停止1-21秒
+        let sleep_num = (Math.random() * 20 + 1) * 1000
         console.log(sleep_num)
         await sleep(sleep_num)
     }
@@ -35,7 +35,7 @@ async function chat(discordLink, discordChannelID, timeInterval, token, dc_name,
             let messageString = ""
           
             if (messageString === "") {
-                messageString = fileJson.bot[index].message.toString()
+                messageString = fileJson.bot[index].message.toString() + dc_name
             }
             message_data = {
                 "content": messageString,
