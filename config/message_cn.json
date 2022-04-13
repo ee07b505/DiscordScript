@@ -6,334 +6,277 @@
     "port": 0
   },
   "config": [
-    {
-      "discord_link": "",
-      "dc_name": "RSS3",
-      "channel_id": "912882985873842186",
-      "time_interval": 86400
-    },
+
     {
       "discord_link": "",
       "dc_name": "zkSync",
-      "channel_id": "829191292951986186",
+      "channel_id": "830465082428620851",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Project Glaxy",
-      "channel_id": "912252690392838144",
+      "channel_id": "825492827462828042",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Across",
-      "channel_id": "902950805160722533",
+      "channel_id": "917389005371375706",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "CyberConnect",
-      "channel_id": "901235030842552410",
+      "channel_id": "910372685597528095",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Kosen",
-      "channel_id": "908131577811316756",
+      "channel_id": "958094381234131035",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Sense",
-      "channel_id": "927628842070319104",
+      "channel_id": "930853634424598569",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Rift",
-      "channel_id": "878310418945306625",
-      "time_interval": 86400
-    },
-    {
-      "discord_link": "",
-      "dc_name": "Brahma.fi",
-      "channel_id": "914752247471161394",
+      "channel_id": "928014684571992205",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "RabbitHole",
-      "channel_id": "899313816402276512",
+      "channel_id": "909970458814849044",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Hats",
-      "channel_id": "920324548493197353",
+      "channel_id": "921057700589240320",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Lit",
-      "channel_id": "915212611962929192",
+      "channel_id": "935577055293222993",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Lens",
-      "channel_id": "940969986065842236",
+      "channel_id": "940580017686061057",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Syncswap",
-      "channel_id": "954870871640666112",
+      "channel_id": "953367430250528878",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Ultiverse",
-      "channel_id": "947554758087020604",
+      "channel_id": "952408182020526110",
       "time_interval": 86400
     },
     {
       "discord_link": "",
-      "dc_name": "Thetanuts finance",
-      "channel_id": "887947859188678664",
+      "dc_name": "Thetanuts Finance",
+      "channel_id": "927987154787917865",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Voltz",
-      "channel_id": "897158332207476746",
+      "channel_id": "919983851953094676",
       "time_interval": 86400
     },
-    {
-      "discord_link": "",
-      "dc_name": "Gear",
-      "channel_id": "865932508537159681",
-      "time_interval": 86400
-    },
+   
     {
       "discord_link": "",
       "dc_name": "Optyfi",
-      "channel_id": "913442823745986591",
+      "channel_id": "855060316626485278",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Cozy",
-      "channel_id": "919314971089846323",
+      "channel_id": "918640930985242624",
       "time_interval": 86400
     },
     {
       "discord_link": "",
-      "dc_name": "Aztec Network",
-      "channel_id": "809172093773152276",
+      "dc_name": "Aztec ",
+      "channel_id": "908386063658151956",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Yield Protocol",
-      "channel_id": "916708785307938816",
+      "channel_id": "917467917782773810",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "ZigZag",
-      "channel_id": "908732962126823555",
+      "channel_id": "908256044331970580",
       "time_interval": 86400
     },
-    {
-      "discord_link": "",
-      "dc_name": "Potion",
-      "channel_id": "909803582797271040",
-      "time_interval": 86400
-    },
+    
     {
       "discord_link": "",
       "dc_name": "Opyn",
-      "channel_id": "915985181888880710",
+      "channel_id": "838858563211755601",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Charm",
-      "channel_id": "912050468585345044",
-      "time_interval": 86400
-    },
-    {
-      "discord_link": "",
-      "dc_name": "Element Finance",
-      "channel_id": "908741422243528775",
+      "channel_id": "801809709631537152",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Slingshot",
-      "channel_id": "917803686242181181",
+      "channel_id": "915823868688621628",
       "time_interval": 86400
     },
-    {
-      "discord_link": "",
-      "dc_name": "TimeSwap",
-      "channel_id": "845274501273092126",
-      "time_interval": 86400
-    },
+   
     {
       "discord_link": "",
       "dc_name": "Ondo Finance",
-      "channel_id": "912353413512175666",
+      "channel_id": "878315370165964860",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Shell",
-      "channel_id": "920378114041847898",
+      "channel_id": "933241585070669874",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Euler",
-      "channel_id": "897452330046324786",
+      "channel_id": "780938646756261938",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Fractional",
-      "channel_id": "868497465656111114",
+      "channel_id": "917996492495659038",
       "time_interval": 86400
     },
-    {
-      "discord_link": "",
-      "dc_name": "Greenwood",
-      "channel_id": "941035063947182090",
-      "time_interval": 86400
-    },
-    {
-      "discord_link": "",
-      "dc_name": "Sherlock",
-      "channel_id": "922923191482056745",
-      "time_interval": 86400
-    },
+   
+
     {
       "discord_link": "",
       "dc_name": "Volmex",
-      "channel_id": "895751634209079337",
+      "channel_id": "844596454940082216",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "RiskHarbor",
-      "channel_id": "928420821867835442",
+      "channel_id": "831202333777985626",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "KurateDAO",
-      "channel_id": "909236381694443550",
+      "channel_id": "951000707308331038",
       "time_interval": 86400
     },
-    {
-      "discord_link": "",
-      "dc_name": "Dark Forest",
-      "channel_id": "932655190581059625",
-      "time_interval": 86400
-    },
-    {
-      "discord_link": "",
-      "dc_name": "8848",
-      "channel_id": "823831552362151967",
-      "time_interval": 86400
-    },
+    
+ 
     {
       "discord_link": "",
       "dc_name": "Chainflip",
-      "channel_id": "882488486026969128",
+      "channel_id": "836109997023952926",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Tally",
-      "channel_id": "915718010487054416",
+      "channel_id": "877736966928605194",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Syndr",
-      "channel_id": "918535776617234452",
+      "channel_id": "935590565733601280",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Morpho",
-      "channel_id": "905789317631316028",
+      "channel_id": "911288183138967553",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Hop",
-      "channel_id": "882562805507710986",
+      "channel_id": "886338135112446032",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "BankSea",
-      "channel_id": "857153835385880586",
+      "channel_id": "911252081434853428",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Swim",
-      "channel_id": "905363373997322280",
+      "channel_id": "872001433262755850",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "ApeX",
-      "channel_id": "919819325085466664",
+      "channel_id": "950327621999292437",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Obol",
-      "channel_id": "849257342624858152",
+      "channel_id": "917170460322578532",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Rubicon",
-      "channel_id": "896095420017700955",
+      "channel_id": "814593046268215367",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "Aloe",
-      "channel_id": "879956729293590528",
+      "channel_id": "942266405418594334",
       "time_interval": 86400
     },
     {
       "discord_link": "",
       "dc_name": "ThirdWeb",
-      "channel_id": "834227967404146718",
+      "channel_id": "924962769986539530",
       "time_interval": 86400
     },
-    {
-      "discord_link": "",
-      "dc_name": "dex.guru",
-      "channel_id": "910634274468794388",
-      "time_interval": 86400
-    },
+   
     {
       "discord_link": "",
       "dc_name": "Gem",
-      "channel_id": "905375808745513020",
+      "channel_id": "930440919130439731",
       "time_interval": 86400
     }
   ],
   "bot": [
     {
-      "message": "GM "
+      "message": "晚上好 "
     }
   ]
 }
