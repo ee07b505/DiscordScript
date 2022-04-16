@@ -35,7 +35,7 @@ async function chat(discordLink, discordChannelID, timeInterval, token, dc_name,
             let messageString = ""
           
             if (messageString === "") {
-                messageString = fileJson.bot[index].message.toString() + dc_name + ' 的小伙伴们，今晚总算回血一点点了。'
+                messageString = fileJson.bot[index].message.toString() + dc_name + ' 管理员。'
             }
             message_data = {
                 "content": messageString,
