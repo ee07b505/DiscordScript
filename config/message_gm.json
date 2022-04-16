@@ -37,8 +37,8 @@
       "time_interval": 86400
     },
     {
-      "discord_link": "",
-      "dc_name": "Kosen",
+      "discord_link": "Kosen",
+      "dc_name": "",
       "channel_id": "908131577811316756",
       "time_interval": 86400
     },
@@ -49,14 +49,14 @@
       "time_interval": 86400
     },
     {
-      "discord_link": "",
-      "dc_name": "Rift",
+      "discord_link": "Rift",
+      "dc_name": "",
       "channel_id": "878310418945306625",
       "time_interval": 86400
     },
     {
-      "discord_link": "",
-      "dc_name": "Brahma.fi",
+      "discord_link": "Brahma.fi",
+      "dc_name": "",
       "channel_id": "914752247471161394",
       "time_interval": 86400
     },
@@ -127,8 +127,8 @@
       "time_interval": 86400
     },
     {
-      "discord_link": "",
-      "dc_name": "Aztec Network",
+      "discord_link": "Aztec Network",
+      "dc_name": "",
       "channel_id": "809172093773152276",
       "time_interval": 86400
     },
@@ -169,8 +169,8 @@
       "time_interval": 86400
     },
     {
-      "discord_link": "",
-      "dc_name": "Slingshot",
+      "discord_link": "Slingshot",
+      "dc_name": "",
       "channel_id": "917803686242181181",
       "time_interval": 86400
     },
@@ -181,8 +181,8 @@
       "time_interval": 86400
     },
     {
-      "discord_link": "",
-      "dc_name": "Ondo Finance",
+      "discord_link": "Ondo Finance",
+      "dc_name": "",
       "channel_id": "912353413512175666",
       "time_interval": 86400
     },
@@ -217,8 +217,8 @@
       "time_interval": 86400
     },
     {
-      "discord_link": "",
-      "dc_name": "Volmex",
+      "discord_link": "Volmex",
+      "dc_name": "",
       "channel_id": "895751634209079337",
       "time_interval": 86400
     },
@@ -241,8 +241,8 @@
       "time_interval": 86400
     },
     {
-      "discord_link": "",
-      "dc_name": "8848",
+      "discord_link": "8848",
+      "dc_name": "",
       "channel_id": "823831552362151967",
       "time_interval": 86400
     },
@@ -271,8 +271,8 @@
       "time_interval": 86400
     },
     {
-      "discord_link": "",
-      "dc_name": "Hop",
+      "discord_link": "Hop",
+      "dc_name": "",
       "channel_id": "882562805507710986",
       "time_interval": 86400
     },
@@ -315,12 +315,12 @@
     {
       "discord_link": "",
       "dc_name": "ThirdWeb",
-      "channel_id": "834227967404146718",
+      "channel_id": "920218864770502676",
       "time_interval": 86400
     },
     {
-      "discord_link": "",
-      "dc_name": "dex.guru",
+      "discord_link": "dex.guru",
+      "dc_name": "",
       "channel_id": "910634274468794388",
       "time_interval": 86400
     },
@@ -328,6 +328,24 @@
       "discord_link": "",
       "dc_name": "Gem",
       "channel_id": "905375808745513020",
+      "time_interval": 86400
+    },
+    {
+      "discord_link": "",
+      "dc_name": "Backd",
+      "channel_id": "957929956455878676",
+      "time_interval": 86400
+    },
+    {
+      "discord_link": "",
+      "dc_name": "Beaker Finance",
+      "channel_id": "946424806474137710",
+      "time_interval": 86400
+    },
+    {
+      "discord_link": "",
+      "dc_name": "Polynomial",
+      "channel_id": "887776657174331422",
       "time_interval": 86400
     }
   ],

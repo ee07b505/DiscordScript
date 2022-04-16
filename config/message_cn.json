@@ -272,6 +272,24 @@
       "dc_name": "Gem",
       "channel_id": "930440919130439731",
       "time_interval": 86400
+    },
+    {
+      "discord_link": "",
+      "dc_name": "Backd",
+      "channel_id": "872530699033399317",
+      "time_interval": 86400
+    },
+    {
+      "discord_link": "",
+      "dc_name": "Beaker Finance",
+      "channel_id": "956990761835053067",
+      "time_interval": 86400
+    },
+    {
+      "discord_link": "",
+      "dc_name": "Polynomial",
+      "channel_id": "919600795199094824",
+      "time_interval": 86400
     }
   ],
   "bot": [
