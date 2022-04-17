@@ -1,0 +1,29 @@
+{
+  "autoBot": false,
+  "proxy": {
+    "enable": false,
+    "host": "127.0.0.1",
+    "port": 0
+  },
+  "config": [
+    {
+      "discord_link": "",
+      "dc_name": "test",
+      "channel_id": "948275612244664421",
+      "time_interval": 29000,
+      "point_message_list":["!collect","!dep all"]
+    },
+    {
+      "discord_link": "",
+      "dc_name": "banksea",
+      "channel_id": "959926497089552414",
+      "time_interval": 29000,
+      "point_message_list":["!collect","!dep all"]
+    }
+  ],
+  "bot": [
+    {
+      "message": ""
+    }
+  ]
+}
