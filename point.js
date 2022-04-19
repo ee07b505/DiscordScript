@@ -1,7 +1,7 @@
 const fs = require("fs");
 const axios = require('axios-https-proxy-fix');
 const fileJson = JSON.parse(fs.readFileSync("./config/message_point.json").toString())
-const token = JSON.parse(fs.readFileSync("./config/account_point.json").toString()).token
+const token_list = JSON.parse(fs.readFileSync("./config/account_point.json").toString()).token_list
 const length = fileJson.bot.length
 const enableProxy = fileJson.proxy.enable
 const proxyHost = fileJson.proxy.host
@@ -11,20 +11,22 @@ const proxyPort = fileJson.proxy.port
 async function main() {
     let amountGM = fileJson.config.length
     console.log('point', amountGM)
-    for (let index = 0; index < amountGM; index++) {
+    for (token_index in token_list){
+        for (let index = 0; index < amountGM; index++) {
 
-        let config_index = fileJson.config[index]
-        let discordLink = config_index.discord_link
-        let discordChannelID = config_index.channel_id
-        let timeInterval = config_index.time_interval
-        let point_message_list = config_index.point_message_list
-        let accountToken = token
-        let dc_name = config_index.dc_name
-        chat(discordLink, discordChannelID, timeInterval, accountToken, dc_name,index,point_message_list)
+            let config_index = fileJson.config[index]
+            let discordLink = config_index.discord_link
+            let discordChannelID = config_index.channel_id
+            let timeInterval = config_index.time_interval
+            let point_message_list = config_index.point_message_list
+            let accountToken = token_list[token_index]
+            let dc_name = config_index.dc_name
+            chat(discordLink, discordChannelID, timeInterval, accountToken, dc_name,index,point_message_list)
 
-        // 停止1-21秒
-        let sleep_num = (Math.random() * 20 + 1) * 1000
-        await sleep(sleep_num)
+            // 停止1-21秒
+            let sleep_num = (Math.random() * 20 + 1) * 1000
+            await sleep(sleep_num)
+        }
     }
 }
 
@@ -51,7 +53,7 @@ async function chat(discordLink, discordChannelID, timeInterval, token, dc_name,
             let sleep_num = (Math.random() * 5 + 1) * 1000
             await sleep(sleep_num)
         }  
-        let time1=timeInterval+Math.random() * 500
+        let time1=timeInterval+Math.random() * 1000
         console.log(time1/60/60+'小时后下一次')
         await sleep(time1* 1000)
 
