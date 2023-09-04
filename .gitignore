@@ -1,7 +1,8 @@
 # 
 account.json
 account_point.json
-
+proxy.txt
+account.txt
 # Logs
 logs
 *.log

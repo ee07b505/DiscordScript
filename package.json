@@ -12,6 +12,7 @@
   "dependencies": {
     "axios": "^0.24.0",
     "axios-https-proxy-fix": "^0.17.1",
+    "lodash": "^4.17.21",
     "qs": "^6.10.3"
   }
 }
