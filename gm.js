@@ -1,7 +1,7 @@
 const fs = require("fs");
 const axios = require('axios-https-proxy-fix');
 const fileJson = JSON.parse(fs.readFileSync("./config/message_gm.json").toString())
-const token = JSON.parse(fs.readFileSync("./config/account.json").toString()).token
+//const token = JSON.parse(fs.readFileSync("./config/account.json").toString()).token
 const tokens = fs.readFileSync("./config/account.txt").toString().split("\n").filter(Boolean)
 const proxys = fs.readFileSync("./config/proxy.txt").toString().split("\n").filter(Boolean)
 const length = fileJson.bot.length
@@ -141,7 +141,7 @@ async function sendMessage(channel_id, message_data, token, accountNum, dc_name,
         if (enableProxy) {
             console.log(enableProxy)
             //let proxy = getRandomProxy()
-            let proxy = getProxy(index)
+            let proxy = getProxy(accountNum)
             await axios.post(url, message_data, {
                 headers: {
                     "content-type": "application/json",
