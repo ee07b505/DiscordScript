@@ -1,0 +1,19 @@
+{
+  "proxy": {
+    "enable": true
+  },
+  "config": [
+    {
+      "discord_link": "",
+      "dc_name": "Aleo",
+      "channel_id": "1153398971109220432",
+      "time_interval": 86400
+    }
+    
+  ],
+  "bot": [
+    {
+      "message": "gm"
+    }
+  ]
+}

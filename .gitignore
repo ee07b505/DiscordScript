@@ -3,6 +3,8 @@ account.json
 account_point.json
 proxy.txt
 account.txt
+aleoaddress.txt
+aleoaddress copy.txt
 # Logs
 logs
 *.log
